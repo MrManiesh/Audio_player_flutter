@@ -1,0 +1,44 @@
+name: audio_player
+description: A new Audio Player project in Flutter.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 0.0.1+1
+
+environment:
+  sdk: ^3.1.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  audioplayers: ^5.2.1
+  flutter_svg: ^2.0.9
+  cupertino_icons: ^1.0.6
+
+  english_words: ^4.0.0
+  provider: ^6.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  
+  assets:
+    - assets/icons/
+
+  fonts:
+  - family: poppins
+    fonts:
+      - asset: fonts/poppins-Bold.ttf
+        weight: 700
+      - asset: fonts/poppins-Medium.ttf
+        weight: 500
+      - asset: fonts/poppins-Regular.ttf
+        weight: 400
+      - asset: fonts/poppins-SemiBold.ttf
+        weight: 600
