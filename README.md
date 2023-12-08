@@ -14,11 +14,11 @@ The goal of this Flutter project is to create an audio player application. You c
 # How to Use
 - Clone the Repository:
 
-`git clone https://github.com/your-username/audio_player.git`
+`git clone https://github.com/MrManiesh/Audio_player_flutter.git`
 
 - Navigate to the Project Directory:
 
-`cd audio_player`
+`cd Audio_player_flutter`
 
 - Run the App:
 
