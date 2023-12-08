@@ -13,13 +13,17 @@ The goal of this Flutter project is to create an audio player application. You c
 
 # How to Use
 - Clone the Repository:
-git clone https://github.com/your-username/audio_player.git
+
+`git clone https://github.com/your-username/audio_player.git`
 
 - Navigate to the Project Directory:
-cd audio_player
+
+`cd audio_player`
 
 - Run the App:
-flutter run
+
+`flutter run`
+
 This command will launch the Flutter app on an emulator or connected device.
 
 # Further Assistance
