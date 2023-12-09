@@ -1,4 +1,4 @@
-# Audio Player Flutter Project
+# Audio Player Flutter
 Welcome to the Audio Player Flutter project! This project serves as a starting point for developing a Flutter application focused on audio playback.
 
 # Getting Started
